@@ -1,2 +1,3 @@
 # Background-Generator 
-Este proyecto fue una prueba para iniciar en Github
+Este es un pequeño proyecto cuya funcionalidad es autogenerar plantillas para background de paginas web.
+ 
